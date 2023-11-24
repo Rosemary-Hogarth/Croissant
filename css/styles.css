@@ -22,3 +22,9 @@ img {
 .email {
   margin: 0 auto;
 }
+
+@media (min-width: 576px) {
+  img {
+    width: 80%;
+  }
+}
