@@ -14,9 +14,9 @@ p {
 
 img {
   width: 100%;
-  border-radius: 5px;
-  margin-bottom: 30px;
-  margin-top: 10px;
+  border-radius: 10px;
+  margin: 30px auto;
+  display: block;
 }
 
 .email {
