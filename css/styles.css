@@ -1,0 +1,24 @@
+body {
+  background: #f7e8a6;
+}
+a {
+  color: green;
+  margin: 10px;
+}
+.container,
+h1,
+p {
+  text-align: center;
+  display: block;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.email {
+  margin: 0 auto;
+}
